@@ -13,3 +13,5 @@ Status: Day 0
 
 ## Learning Log
 - 25-10-2025: Created repo and live page. Wrote first commit.
+
+## URL: https://bradleybill.github.io/Platform-Pivot/
