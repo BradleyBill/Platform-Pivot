@@ -14,4 +14,4 @@ Publish a public page without any prior knowledge to build momentum and a sharea
 - README contains goals and a dated learning log entry
 
 ## Rollback
-- Disable Pages in Settings if needed
+- Disable Pages in Settings if needed.
