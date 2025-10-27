@@ -1,0 +1,2 @@
+- 2025-10-25: Got Github Pages Live.
+-2025-10-25: Cloned Locally, Pushed Change, Created Learning Log
