@@ -10,5 +10,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Install tidy
         run: sudo apt-get update && sudo apt-get install -y tidy
-      - name: Lint index.html
-        run: tidy -qe index.html || true
+      - name: Lint Index.html
+        run: tidy -qe Index.html || true
